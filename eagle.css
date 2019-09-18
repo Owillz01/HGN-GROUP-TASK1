@@ -1,0 +1,64 @@
+body
+
+}
+
+    img{
+        align: middle;
+        position: absolute;
+    }
+
+    .flex {
+        display: flex;
+        justify-content: center;
+        align-item: center;
+    }
+
+    fieldset{
+        width: 350px;
+        height:500px;
+        margin-right: 200px;
+        margin-left: 550px;
+        margin-top: 30px;
+        background-color: white;
+    }
+
+
+    .welcome{
+        margin: 100px;
+    }
+
+form {
+    margin-top: 15px;
+}
+input
+{
+    width: 300px;
+    height: 20px;
+    margin-left: 25px;
+    margin-top: 10px;
+    border-color: 2px;
+    text-align: center;
+}
+
+input[type=submit]
+{
+    background:purple;
+    border-color: none;
+    color:white;
+    font-size: 20px;
+    font-weight: bold;
+    height: 40px;
+    margin-top: 20px;
+}
+
+p{
+    font-size: 18px;
+    font-family: Georgia;
+    align: center;
+    color: none;
+}
+input[type=submit]:hover {
+    background-color: black;
+}
+ 
+
